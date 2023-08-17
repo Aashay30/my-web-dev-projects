@@ -1,0 +1,20 @@
+body {
+    background-color: #eaf6ea;
+  }
+
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    /* border-style: dotted none none; this is alternative of the above to get dotted borders */
+    width: 5%;
+  }
+ 
+  h1 {
+    color: #66BFBF;
+  }
+
+  h3 {
+    color: #66BFBF;
+  }
